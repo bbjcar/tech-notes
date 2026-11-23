@@ -57,9 +57,13 @@ nav:
   - 홈: index.md
   - 장애 해결:
       - troubleshooting/index.md
+      - Dataverse 웹 리소스 외부 노출: troubleshooting/dataverse-webresource-exposure.md
+      - 에이전트 자동 차단(MCP 도구): troubleshooting/agent-blocked-by-mcp-tool.md
+      - Copilot Studio 운영 문의 Q&A: troubleshooting/copilot-studio-agent-faq.md
       - Foundry 하네스 에이전트 파일 반환 403: troubleshooting/foundry-harness-file-403.md
   - 기술 구현:
       - implementation/index.md
+      - Default 환경 동결 5단계: implementation/default-environment-freeze.md
       - CMR 배포 흐름과 Git의 역할: implementation/cmr-git-deploy.md
       - Standard → Copilot harness 업그레이드: implementation/copilot-harness-upgrade.md
   - 템플릿:

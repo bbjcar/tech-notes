@@ -4,5 +4,6 @@
 
 | 날짜 | 제품 | 제목 |
 |---|---|---|
+| 2026-11 | Power Platform 거버넌스 | [Default 환경 — '폐쇄' 대신 '동결' 5단계](default-environment-freeze.md) |
 | 2026-11 | Copilot Studio | [Standard → Copilot harness 업그레이드](copilot-harness-upgrade.md) |
 | 2026-11 | Copilot Managed Runtime | [CMR 배포 흐름과 Git의 역할](cmr-git-deploy.md) |
