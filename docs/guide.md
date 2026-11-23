@@ -4,13 +4,16 @@
 
 1. GitHub 저장소에서 `docs/troubleshooting/` 또는 `docs/implementation/` 폴더로 이동
 2. **Add file → Create new file** 선택, 이름은 `짧은-영문-이름.md`
-3. [템플릿](templates/troubleshooting.md) 내용을 붙여 넣고 작성
+3. [템플릿](forms/troubleshooting.md) 내용을 붙여 넣고 작성
 4. `mkdocs.yml`의 `nav`에 한 줄 추가 (예: `- 제목: troubleshooting/파일이름.md`)
 5. 해당 폴더의 `index.md` 표와 홈의 **최근 기록**에도 한 줄 추가
 6. **Commit changes** → 1~2분 뒤 사이트 반영 (**Actions** 탭에서 확인)
 
 !!! tip "페이지에서 바로 고치기"
     사이트 각 페이지 오른쪽 위 연필 아이콘을 누르면 GitHub 편집 화면으로 바로 이동합니다.
+
+!!! warning "폴더 이름 주의"
+    `docs/templates/` 폴더는 MkDocs가 기본으로 사이트에서 제외합니다. 이름이 점(`.`)으로 시작하는 파일·폴더도 제외되니 새 폴더를 만들 때 피해 주세요.
 
 ## 자주 쓰는 문법
 

@@ -26,7 +26,7 @@
 
     새 글을 쓸 때 복사해서 쓰는 양식
 
-    [:octicons-arrow-right-24: 바로가기](templates/troubleshooting.md)
+    [:octicons-arrow-right-24: 바로가기](forms/troubleshooting.md)
 
 -   **📊 정보 공유 대시보드**
 

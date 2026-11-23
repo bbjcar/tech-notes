@@ -67,6 +67,6 @@ nav:
       - CMR 배포 흐름과 Git의 역할: implementation/cmr-git-deploy.md
       - Standard → Copilot harness 업그레이드: implementation/copilot-harness-upgrade.md
   - 템플릿:
-      - 장애 해결 템플릿: templates/troubleshooting.md
-      - 기술 구현 템플릿: templates/implementation.md
+      - 장애 해결 템플릿: forms/troubleshooting.md
+      - 기술 구현 템플릿: forms/implementation.md
   - 작성 가이드: guide.md
