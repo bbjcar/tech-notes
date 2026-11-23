@@ -1,0 +1,65 @@
+site_name: 기술노트
+site_description: 장애 해결과 기술 구현 기록
+site_url: https://bbjcar.github.io/tech-notes/
+repo_url: https://github.com/bbjcar/tech-notes
+repo_name: bbjcar/tech-notes
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: ko
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: 다크 모드로 전환
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: 라이트 모드로 전환
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - 홈: index.md
+  - 장애 해결:
+      - troubleshooting/index.md
+      - Foundry 하네스 에이전트 파일 반환 403: troubleshooting/foundry-harness-file-403.md
+  - 기술 구현:
+      - implementation/index.md
+      - CMR 배포 흐름과 Git의 역할: implementation/cmr-git-deploy.md
+      - Standard → Copilot harness 업그레이드: implementation/copilot-harness-upgrade.md
+  - 템플릿:
+      - 장애 해결 템플릿: templates/troubleshooting.md
+      - 기술 구현 템플릿: templates/implementation.md
+  - 작성 가이드: guide.md
