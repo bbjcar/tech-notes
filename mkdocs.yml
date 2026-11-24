@@ -66,6 +66,11 @@ nav:
       - Default 환경 동결 5단계: implementation/default-environment-freeze.md
       - CMR 배포 흐름과 Git의 역할: implementation/cmr-git-deploy.md
       - Standard → Copilot harness 업그레이드: implementation/copilot-harness-upgrade.md
+  - 개념 정리:
+      - concepts/index.md
+      - Microsoft IQ와 Foundry IQ: concepts/microsoft-iq-vs-foundry-iq.md
+      - Foundry 구조와 에이전트 실행 방식: concepts/foundry-structure-agent-runtime.md
+      - Foundry 모델 배포·쿼터·배포 유형: concepts/foundry-model-deployment-quota.md
   - 템플릿:
       - 장애 해결 템플릿: forms/troubleshooting.md
       - 기술 구현 템플릿: forms/implementation.md

@@ -20,6 +20,14 @@
 
     [:octicons-arrow-right-24: 바로가기](implementation/index.md)
 
+-   **📚 개념 정리**
+
+    ---
+
+    헷갈리는 제품·아키텍처 개념을 질문 중심으로 정리한 기록
+
+    [:octicons-arrow-right-24: 바로가기](concepts/index.md)
+
 -   **📝 템플릿**
 
     ---
@@ -42,6 +50,9 @@
 
 | 날짜 | 분류 | 제목 |
 |---|---|---|
+| 2026-11 | 개념 정리 | [Microsoft IQ와 Foundry IQ](concepts/microsoft-iq-vs-foundry-iq.md) |
+| 2026-11 | 개념 정리 | [Foundry 구조와 에이전트 실행 방식](concepts/foundry-structure-agent-runtime.md) |
+| 2026-11 | 개념 정리 | [Foundry 모델 배포·쿼터·배포 유형](concepts/foundry-model-deployment-quota.md) |
 | 2026-11 | 기술 구현 | [Default 환경 — '폐쇄' 대신 '동결' 5단계](implementation/default-environment-freeze.md) |
 | 2026-11 | 장애 해결 | [Dataverse 웹 리소스 외부 노출 — CA 대신 IP 방화벽](troubleshooting/dataverse-webresource-exposure.md) |
 | 2026-11 | 장애 해결 | [에이전트가 자동으로 '차단됨'으로 바뀜](troubleshooting/agent-blocked-by-mcp-tool.md) |
