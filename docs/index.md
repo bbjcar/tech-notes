@@ -50,6 +50,7 @@
 
 | 날짜 | 분류 | 제목 |
 |---|---|---|
+| 2026-11 | 기술 구현 | [CMR에 조건부 액세스 적용 — 엔터프라이즈 앱 등록](implementation/cmr-conditional-access-enterprise-app.md) |
 | 2026-11 | 개념 정리 | [Microsoft IQ와 Foundry IQ](concepts/microsoft-iq-vs-foundry-iq.md) |
 | 2026-11 | 개념 정리 | [Foundry 구조와 에이전트 실행 방식](concepts/foundry-structure-agent-runtime.md) |
 | 2026-11 | 개념 정리 | [Foundry 모델 배포·쿼터·배포 유형](concepts/foundry-model-deployment-quota.md) |

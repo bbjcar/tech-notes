@@ -63,6 +63,7 @@ nav:
       - Foundry 하네스 에이전트 파일 반환 403: troubleshooting/foundry-harness-file-403.md
   - 기술 구현:
       - implementation/index.md
+      - CMR 조건부 액세스 — 엔터프라이즈 앱 등록: implementation/cmr-conditional-access-enterprise-app.md
       - Default 환경 동결 5단계: implementation/default-environment-freeze.md
       - CMR 배포 흐름과 Git의 역할: implementation/cmr-git-deploy.md
       - Standard → Copilot harness 업그레이드: implementation/copilot-harness-upgrade.md
