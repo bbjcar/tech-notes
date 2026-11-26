@@ -7,6 +7,7 @@
 | 2026-11 | [Microsoft IQ와 Foundry IQ](microsoft-iq-vs-foundry-iq.md) | IQ 4종의 관계, 지식 베이스·지식 원본, 인덱스 필요 여부, Copilot Retrieval API |
 | 2026-11 | [Foundry 구조와 에이전트 실행 방식](foundry-structure-agent-runtime.md) | 리소스·프로젝트·관측 위치, 프롬프트형 vs 호스트형, 세션 샌드박스, 한도 |
 | 2026-11 | [Foundry 모델 배포·쿼터·배포 유형](foundry-model-deployment-quota.md) | M365 Copilot과의 관계, TPM vs 종량제, Global Standard vs Standard, SLA |
+| 2026-11 | [Azure Landing Zone 기초](azure-landing-zone-basics.md) | 플랫폼·워크로드 랜딩 존, Hub-Spoke 구조, 핵심 키워드 5개, 용어 27개 |
 
 !!! info "작성 규칙"
     - 미리보기(preview) 기능은 제목이나 표에 `(preview)`로 표시합니다.
