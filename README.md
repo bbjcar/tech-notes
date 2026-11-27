@@ -8,11 +8,11 @@
 
 ## 글 쓰는 방법 (요약)
 
-1. `docs/troubleshooting/` 또는 `docs/implementation/` 폴더에 `.md` 파일을 만듭니다. (`docs/forms/`의 템플릿 복사)
+1. `docs/troubleshooting/`, `docs/implementation/`, `docs/concepts/` 중 알맞은 폴더에 `.md` 파일을 만듭니다. (`docs/templates/`의 템플릿 복사)
 2. `mkdocs.yml`의 `nav`에 새 파일을 한 줄 추가합니다.
 3. 커밋하면 약 1~2분 뒤 사이트에 반영됩니다. (Actions 탭에서 진행 상황 확인)
 
-자세한 내용은 사이트의 **작성 가이드**를 참고하세요.
+자세한 내용은 [작성 가이드](docs/templates/guide.md)를 참고하세요. 작성 가이드와 템플릿은 `docs/templates/`에 있어 공개 사이트에는 게시되지 않습니다.
 
 > ⚠️ 공개 사이트입니다. 고객사명, 서버 주소, 계정·키, 실제 오류 로그 원문, 내부 단가는 올리지 않습니다.
 
